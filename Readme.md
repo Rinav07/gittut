@@ -1,5 +1,8 @@
 # I am Rinav
 
 ## Hi NSUT
-hi i am going to talk to avi"s mom kal <br> 
-i will make her feel proud of myself
+
+###I am doing my B.tech in CSAI
+
+I am currently starting Ds Algo in c++<br>
+I am also wish to start Dev in python <br>
